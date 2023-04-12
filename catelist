@@ -1,0 +1,44 @@
+[
+  {
+    "id": 1,
+    "tieude": "Quá nhanh quá nguy hiểm",
+    "theloai": "Kịch",
+    "nam": 2017,
+    "poster": "poster1.jpg"
+  },
+  {
+    "id": 2,
+    "tieude": "Bố già",
+    "theloai": "Tội phạm, Kịch",
+    "nam": 1972,
+    "poster": "poster2.jpg"
+  },
+  {
+    "id": 3,
+    "tieude": "Batman: Bóng đêm trỗi dậy",
+    "theloai": "Hành động",
+    "nam": 2008,
+    "poster": "https://www.example.com/poster2.jpg"
+  },
+  {
+    "id": 3,
+    "tieude": "Avatar",
+    "theloai": "Hành động",
+    "nam": 1972,
+    "poster": "poster3.jpg"
+  },
+  {
+    "id": 4,
+    "tieude": "Biệt đội siêu anh hùng ",
+    "theloai": "Hành động, Khoa học viễn tưởng",
+    "nam": 2012,
+    "poster": "poster4.jpg"
+  },
+  {
+    "id": 5,
+    "tieude": "Kẻ hủy diệt ",
+    "theloai": "Hành động",
+    "nam": 1984,
+    "poster": "poster5.jpg"
+  }
+]

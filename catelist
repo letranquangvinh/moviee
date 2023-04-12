@@ -4,41 +4,41 @@
     "tieude": "Quá nhanh quá nguy hiểm",
     "theloai": "Kịch",
     "nam": 2017
-    "poster": "https://github.com/letranquangvinh/moviee/blob/main/1.jpg"
+    "poster": "hinh1.jpg"
   },
   {
     "id": 2,
     "tieude": "Bố già",
     "theloai": "Tội phạm, Kịch",
     "nam": 1972,
-    "poster": "https://github.com/letranquangvinh/moviee/blob/main/2.jpg"
+    "poster": "hinh2.jpg"
   },
   {
     "id": 3,
     "tieude": "Batman: Bóng đêm trỗi dậy",
     "theloai": "Hành động",
     "nam": 2008,
-    "poster": "https://github.com/letranquangvinh/moviee/blob/main/3.jpg"
+    "poster": "hinh3.jpg"
   },
   {
     "id": 4,
     "tieude": "Avatar",
     "theloai": "Hành động",
     "nam": 1972,
-    "poster": "https://github.com/letranquangvinh/moviee/blob/main/4.jpg"
+    "poster": "hinh4.jpg"
   },
   {
     "id": 5,
     "tieude": "Biệt đội siêu anh hùng ",
     "theloai": "Hành động, Khoa học viễn tưởng",
     "nam": 2012,
-    "poster": "https://github.com/letranquangvinh/moviee/blob/main/4.jpg"
+    "poster": "hinh5.jpg"
   },
   {
     "id": 6,
     "tieude": "Kẻ hủy diệt ",
     "theloai": "Hành động",
     "nam": 1984,
-    "poster": "https://github.com/letranquangvinh/moviee/blob/main/5.jpg"
+    "poster": "hinh6.jpg
   }
 ]
